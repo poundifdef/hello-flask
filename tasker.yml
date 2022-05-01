@@ -1,4 +1,5 @@
 # build: auto
 
+enabled: true
 build: docker
 dockerfile: Dockerfile
