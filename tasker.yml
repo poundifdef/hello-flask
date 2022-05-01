@@ -1,0 +1,4 @@
+# build: auto
+
+build: docker
+dockerfile: Dockerfile
